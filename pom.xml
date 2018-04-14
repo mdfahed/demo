@@ -78,7 +78,7 @@
 		</systemPropertyVariables>
 		</configuration> -->
 		<suiteXmlFiles>
-		<!-- <suiteXmlFile>testSuite.xml</suiteXmlFile> -->
+		<!-- <suiteXmlFile>testSuite1.xml</suiteXmlFile> -->
 		<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
 		</suiteXmlFiles>
 		</configuration>
